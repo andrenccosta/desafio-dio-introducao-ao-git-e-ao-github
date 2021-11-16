@@ -12,6 +12,9 @@ git remote -v // lista os repositórios remotos cadastrados
 
 Como subir repositório para o github:
 
+git init
+git add*
+git commit -m "primeiro commit"
 *Create a new repository no github
 *git remote add origin https://github.com/andrenccosta/livro-receitas.git //no git ... subi um repositório chamado livro-receitas.git
 *git push origin master 
