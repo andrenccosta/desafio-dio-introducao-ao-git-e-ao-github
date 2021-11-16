@@ -1,3 +1,5 @@
+#Introdução ao Git e ao GitHub<br /> 
+<br />
 mkdir livro-receitas // criou um repositório chamado livro-receitas <br />
 dir e ls // lista os arquivos dentro do repositório <br />
 ls -a // lista os arquivos ocultos dentro do repositório <br />
@@ -10,7 +12,7 @@ git status //  exibe o estado do diretório de trabalho e da área de teste <br 
 mv strogonoff.md  ./receitas // moveu o arquivo strogonoff.md para o repositório receitas <br />
 git remote -v // lista os repositórios remotos cadastrados <br />
 <br />
-Como subir repositório para o github: <br />
+##Como subir repositório para o github: <br />
 <br />
 git init <br />
 git add* <br />
